@@ -5,7 +5,10 @@ class  HelloWorld extends React.Component{
 render(){
 
     return(
-        <h1>Hello {this.props.name}</h1>
+       <div>
+            <h1>Hello {this.props.secondName}<br/>{this.props.name} </h1>
+    
+       </div>
     )
 }
 

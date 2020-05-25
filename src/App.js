@@ -4,10 +4,7 @@ import HelloWorld from './components/Hello';
 function App() {
   return (
     <div className="App">
- <p>
-   KAMAGERA
- </p>
- <HelloWorld name="Ozil"/>
+ <HelloWorld name="Ozil" secondName="Mesut"/>
     </div>
   );
 }
