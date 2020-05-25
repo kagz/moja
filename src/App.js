@@ -7,7 +7,7 @@ function App() {
  <p>
    KAMAGERA
  </p>
- <HelloWorld name="Dembele"/>
+ <HelloWorld name="Ozil"/>
     </div>
   );
 }
